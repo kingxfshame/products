@@ -16,7 +16,7 @@
 * All scripts for adding - removing - editing products are in the file php / function.php
 * The script for finding products is at the beginning of the index.php file.
 
-*Search works, as well as by product name and by description.
+* Search works, as well as by product name and by description.
 
 
 # Database
